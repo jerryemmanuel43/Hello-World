@@ -1,2 +1,2 @@
 # Hello-World
-I want to say hello to the worl!
+I want to say hello to the world!
